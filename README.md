@@ -1,4 +1,4 @@
-# Quantium Data Analytics Project -- Category and Customer Analytics
+# Quantium Data Analytics Project -- Category and Customer 
 
 ## Project Overview
 
